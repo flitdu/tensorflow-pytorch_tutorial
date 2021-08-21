@@ -18,9 +18,3 @@ record about tf study
 
 
 
-
-
-
-
-![image-20210821195533774](https://tva1.sinaimg.cn/large/008i3skNgy1gtonpj5nf0j60pm0e83zp02.jpg)
-
