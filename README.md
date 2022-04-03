@@ -1,7 +1,5 @@
 # tensorflow-tutorial
-record about tf study
-
-
+record about tf-pytorch study
 
 
 
